@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Mathew Darren</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+Student+at+PT+Hacktivate;Staff+of+Data+Analyze+Division+at+Statistics+Center;Data+Analyst+Freelance+on+Fastwork;Statistics+Student+at+Diponegoro+University" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+Student+at+PT+Hacktivate;Staff+of+Data+Analyze+Division+at+Statistics+Center;Data+Analyst+Freelancer+on+Fastwork;Statistics+Student+at+Diponegoro+University" alt="Typing SVG" /></a></p>
 
 ## **About Me**
 Hi there! My name is Mathew Darren and I'm a data enthusiast and aspiring data scientist. I participated in the Python for Data Science Independent Study program at PT Hacktivate, held by the Ministry of Education, Culture, Research, and Technology. In addition to this, I'm also a staff member of the data analysis division at Statistics Center UNDIP and a freelance data analyst on Fastwork, where I've completed over 100 client projects with an overall rating of 4.9/5. I'm currently studying statistics at Diponegoro University in Semarang, Central Java.
