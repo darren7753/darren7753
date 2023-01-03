@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathew Darren
+<h1 align="center"><b>Hi, I'm Mathew Darren</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 =====================================================================================================================================
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+Student+at+PT+Hacktivate;Staff+of+Data+Analyze+Division+at+Statistics+Center;Data+Analyst+Freelancer+on+Fastwork;Statistics+Student+at+Diponegoro+University" alt="Typing SVG" /></a></p>
@@ -10,7 +10,7 @@ Hi there! My name is Mathew Darren and I'm a data enthusiast and aspiring data s
 * 🧠  I'm learning everything about Data Science
 * ⚡  Fun fact: I'm a Marvel fanboy
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -23,11 +23,11 @@ Hi there! My name is Mathew Darren and I'm a data enthusiast and aspiring data s
 </p>
 
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/darren7753" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/darren_matthew_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mathewdarren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 <b>Top Repositories</b>
 
