@@ -1,30 +1,34 @@
-<h1 align="center"><b>Hi, I'm Mathew Darren</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathew Darren
+=====================================================================================================================================
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+Student+at+PT+Hacktivate;Staff+of+Data+Analyze+Division+at+Statistics+Center;Data+Analyst+Freelancer+on+Fastwork;Statistics+Student+at+Diponegoro+University" alt="Typing SVG" /></a></p>
 
-## **About Me**
-Hi there! My name is Mathew Darren and I'm a data enthusiast and aspiring data scientist. I participated in the Python for Data Science Independent Study program at PT Hacktivate, held by the Ministry of Education, Culture, Research, and Technology. In addition to this, I'm also a staff member of the data analysis division at Statistics Center UNDIP and a freelance data analyst on Fastwork, where I've completed over 100 client projects with an overall rating of 4.9/5. I'm currently studying statistics at Diponegoro University in Semarang, Central Java.
+Hi there! My name is Mathew Darren and I'm a data enthusiast and aspiring data scientist. I participated in the Python for Data Science Independent Study program at PT Hacktivate, held by the Ministry of Education, Culture, Research, and Technology. In addition to this, I'm also a staff member of the data analysis division at Statistics Center UNDIP and a freelance data analyst on Fastwork, where I've completed over 100 client projects with an overall rating of 4.9/5. I'm currently studying statistics at Diponegoro University in Semarang, Indonesia.
 
-## **Skills**
-- Programming Languages
+* 🌍  I'm based in South Tangerang, Indonesia
+* ✉️  You can contact me at [matthewdarren@gmail.com](mailto:matthewdarren@gmail.com)
+* 🧠  I'm learning everything about Data Science
+* ⚡  Fun fact: I'm a Marvel fanboy
 
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    
-- Databases
+### Skills
 
-    ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
 
-- Softwares and Tools
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Socials
 
-## **Social Media**
-[![LinkedIn](https://img.shields.io/badge/-mathewdarren-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/mathewdarren/)
-[![Gmail](https://img.shields.io/badge/-matthewdarren7753-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matthewdarren7753@gmail.com)](mailto:matthewdarren7753@gmail.com)
-[![Instagram](https://img.shields.io/badge/-darren__matthew__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/darren_matthew_/)](https://www.instagram.com/darren_matthew_/)
+<p align="left"> <a href="https://www.github.com/darren7753" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/darren_matthew_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mathewdarren" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-I appreciate your interest in my profile. If you have any questions or want to discuss anything with me, please feel free to reach out. Thank you!
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/darren7753/h8_3" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=darren7753&repo=h8_3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/darren7753/Automated_Linear_Regression_Streamlit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=darren7753&repo=Automated_Linear_Regression_Streamlit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
