@@ -5,7 +5,7 @@
 Hi there! My name is Mathew Darren and I'm a data enthusiast and aspiring data scientist. I participated in the Python for Data Science Independent Study program at PT Hacktivate, held by the Ministry of Education, Culture, Research, and Technology. In addition to this, I'm also a staff member of the data analysis division at Statistics Center UNDIP and a freelance data analyst on Fastwork, where I've completed over 100 client projects with an overall rating of 4.9/5. I'm currently studying statistics at Diponegoro University in Semarang, Indonesia.
 
 * 🌍  I'm based in South Tangerang, Indonesia
-* ✉️  You can contact me at [matthewdarren@gmail.com](mailto:matthewdarren@gmail.com)
+* ✉️  You can contact me at [matthewdarren7753@gmail.com](mailto:matthewdarren7753@gmail.com)
 * 🧠  I'm learning everything about Data Science
 * ⚡  Fun fact: I'm a Marvel fanboy
 
